@@ -1,4 +1,4 @@
-package sg.edu.np.mad.mad_exercise4;
+package sg.edu.np.mad.practical2;
 
 import android.view.View;
 import android.widget.ImageView;

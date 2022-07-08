@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MAD_exercise2">
         <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
             android:name=".MessageGroup"
             android:exported="false" />
         <activity

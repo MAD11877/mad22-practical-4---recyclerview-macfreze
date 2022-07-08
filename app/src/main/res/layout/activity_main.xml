@@ -70,8 +70,8 @@
                 app:layout_constraintHorizontal_bias="0.5"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/descTxt" />
-                tools:layout_editor_absoluteX="69dp"
-                tools:layout_editor_absoluteY="293dp" />
+            tools:layout_editor_absoluteX="69dp"
+            tools:layout_editor_absoluteY="293dp" />
 
             <Button
                 android:id="@+id/messageButton"
